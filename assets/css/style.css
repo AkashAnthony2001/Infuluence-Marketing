@@ -5,6 +5,7 @@ body{
     margin:0px;
     padding:0px;
     background-color:#0046a0;
+    
 }
 .header{
     padding:10px;
@@ -85,4 +86,23 @@ body{
     font-weight:bolder;
     width:calc(60%-40px);
     max-width: auto;
+}
+.container{
+    display:flex;
+}
+.main-text{
+    width:80%;
+    font-size:30px;
+    font-weight:900;
+    box-sizing:border-box;
+    line-height: 0.5;
+}
+.first-back img{
+    width:50%;
+}
+.text{
+    color:white;
+}
+.text2{
+    color:#ffa824;
 }
