@@ -71,11 +71,18 @@ body{
     width:50%;
 }
 .logo{
-    box-sizing: border-box;
+    margin:0px 0px 0px 20px;
+    width:20%;
 }
 .dropdown{
     
 }
 .drop-btn{
     padding:20px;
+    background-color:transparent;
+    border:none;
+    color:white;
+    font-weight:bolder;
+    width:calc(60%-40px);
+    max-width: auto;
 }
